@@ -15,6 +15,7 @@ I find it extremely satisfying when all the work results in a beautiful, functio
 Here in my Github you can see my projects that were done during the bootcamp, please don't be misled by the fact that they are forked from Technigo's repositories. You can follow to the master repository and see that they are just templates and some instructions for the projects. 
 The progects are work in progress and I'll update them everytime I find a better solution. Moreover, I'll add new ones when finished working on them.
 
-You can contact me here if you'd like to learn more about my progress: liza.minican@gmail.com
-Here I share my work in visual format:  ![Liza's Minican portfolio](https://liza-minican-portfolio.netlify.app/)
+You can contact me here if you'd like to learn more about my progress:📧 liza.minican@gmail.com
+
+Here I share my work in visual format: 🗂 [Liza's Minican portfolio](https://liza-minican-portfolio.netlify.app/)
 
