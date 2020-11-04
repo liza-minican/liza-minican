@@ -1,13 +1,13 @@
 ## Hey! I am Liza! 
-## I am an inspired Frontend Developer 
+## I am an inspired Frontend Developer 👩‍💻 
 
 After  working in Maketing, Project Management and trying out some entrepreneurial endeavours, I've realized that to be happy at work I need:
-* *to constantly learn something new
-* *to solve problems
-* *creativity
-* *tangible immediate results
-* *collaboration and team work
-* *supportive community 
+* *to constantly learn something new*
+* *to solve problems*
+* *creativity*
+* *tangible immediate results*
+* *collaboration and team work*
+* *supportive community* 
 
 I was always curious about programming and finally I decided to give it a go and enrolled in a coding bootcamp Technigo, and it turned out that programming requires exactly the right combination of things that make me happy at work. This intense and demanding program has opened up the exciting world of developing for me and i am very happy that I am a part of it now!!
 I find it extremely satisfying when all the work results in a beautiful, functional product.
